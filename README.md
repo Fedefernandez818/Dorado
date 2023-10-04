@@ -5,3 +5,4 @@ Color favorito
 2. comparr las papas
 3. pon a freir las milanesas
 4. descongela las papas
+5. pon a cocinar las papas
