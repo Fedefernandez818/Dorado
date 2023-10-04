@@ -1,0 +1,2 @@
+# Dorado
+Color favorito
