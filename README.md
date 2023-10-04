@@ -6,3 +6,5 @@ Color favorito
 3. pon a freir las milanesas
 4. descongela las papas
 5. pon a cocinar las papas
+6. disfruta de la receta
+7. termine la receta
